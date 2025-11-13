@@ -13,10 +13,10 @@ Welcome to the **Steam Update Tracker** public issue tracker! This repository is
 - 🔍 **Search & Sort** - Easily find games with search and sorting options
 - 📱 **Responsive Design** - Works seamlessly on desktop and mobile devices
 - 🔒 **Privacy First** - We don't store any personal data, all data that is stored in the session is public data which includes:
-      - Steamid (Used to pull game libary)
-      - Steam Name (To be displayed in the dashboard)
-      - ProfileURL (To allow the user to access their profile from their Avatar)
-      - Avatar (To be displayed in the dashboard)
+      - **Steamid** (Used to pull game libary)
+      - **Steam Name** (To be displayed in the dashboard)
+      - **ProfileURL** (To allow the user to access their profile from their Avatar)
+      - **Avatar** (To be displayed in the dashboard)
 
 Visit the website: [https://steamupdatetracker.com](https://steamupdatetracker.com)
 
